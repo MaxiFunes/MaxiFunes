@@ -19,18 +19,18 @@ Soy desarrollador fullstack con pasión por el diseño de interfaces y la automa
 
 ## 🧠 Lo que estoy haciendo ahora
 
-- ✨ Armando un sistema de facturación automática con AFIP y React
-- 🧪 Explorando ideas para un sistema freemium para profesores
-- 🧰 Desarrollando mi portafolio en `Next.js` con animaciones personalizadas
-- 💡 Jugando con ideas de productos IA simples pero útiles
+- ✨ Armando un sistema
+- 🧪 Explorando ideas
+- 🧰 Desarrollando en `Next.js` 
+- 💡 Jugando con IA
 
 ---
 
 ## 📫 Contacto
 
-- [Portfolio](https://tuportfolio.com)  
-- [LinkedIn](https://linkedin.com/in/tuusuario)  
-- Email: `tunombre@tudominio.com`
+- [Portfolio](https://maximofunes.com)  
+- [LinkedIn](https://linkedin.com/in/maxifunes)  
+- Email: `hola@maximofunes.com`
 
 ---
 
