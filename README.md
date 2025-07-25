@@ -30,9 +30,10 @@
 
 ---
 
-## 🧱 Stats de GitHub
+## 🧱 My stats
 
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=MaxiFunes&show_icons=true&theme=radical&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=MaxiFunes&show_icons=true&theme=radical&hide_title=true)
+
 
 ---
 
