@@ -33,7 +33,7 @@
 ## 🧱 My stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MaxiFunes&show_icons=true&theme=radical&hide_title=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaxiFunes&theme=elegant&hide_border=true&border_radius=10&card_width=506&fire=EB1C12&background=100%2C000000%2CFF4B00B6&ring=0800AB&stroke=FFFFFF&sideNums=CACACA&currStreakNum=EB1E1E&currStreakLabel=EB3636)](https://git.io/streak-stats)
 
 ---
 
