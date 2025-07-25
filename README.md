@@ -1,23 +1,15 @@
-# Welcome 👋
+<h1 align="center"> Welcome to my GitHub profile👋</h1>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1635776063043-ab23b4c226f6?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%"/>
+</p>
 
-<div style="background-color: #010409 ;padding:20px; border-radius:10px; text-aling:center; margin:auto; width:100%">
-  <p>test1</p>
-</div>
 
-Soy desarrollador fullstack con pasión por el diseño de interfaces y la automatización. Me gusta construir soluciones útiles, eficientes y visualmente atractivas.
-
----
-
-## 🚀 Tecnologías que uso
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase)
+# 🚀 MY STACK
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,git,github,js,ts,css,nextjs,nodejs,notion,tailwind,supabase,mysql,vscode,vercel,redis,npm&perline=8" />
+  </a>
+</p>
 
 ---
 
@@ -30,16 +22,18 @@ Soy desarrollador fullstack con pasión por el diseño de interfaces y la automa
 
 ---
 
-## 📫 Contacto
+## 📫 Contact me
 
-- [Portfolio](https://maximofunes.com)  
-- [LinkedIn](https://linkedin.com/in/maxifunes)  
-- Email: `hola@maximofunes.com`
+- Take a look to my [Personal portfolio](https://maximofunes.com)  
+- My [LinkedIn](https://linkedin.com/in/maxifunes)  
+- Email:<a href="mailto:hola@maximofunes.com">`hola@maximofunes.com`</a>
 
 ---
 
 ## 🧱 Stats de GitHub
 
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_title=true)
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=MaxiFunes&show_icons=true&theme=radical&hide_title=true)
+
+---
 
 ---
