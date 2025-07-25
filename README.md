@@ -1,6 +1,6 @@
 # Welcome 👋
 
-<div style="background-color:#151b23; text-aling:center; margin: 0 auto;">
+<div style="background-color: #010409 ;padding:20px; border-radius:10px; text-aling:center; margin:auto; width:100%">
   <p>test1</p>
 </div>
 
